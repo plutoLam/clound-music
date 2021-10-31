@@ -1,0 +1,175 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 2767258 */
+  src: url('iconfont.woff2?t=1634037662146') format('woff2'),
+       url('iconfont.woff?t=1634037662146') format('woff'),
+       url('iconfont.ttf?t=1634037662146') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-renwu-ren:before {
+  content: "\e749";
+}
+
+.icon-icon-test:before {
+  content: "\e6e0";
+}
+
+.icon-zhuanji:before {
+  content: "\e60b";
+}
+
+.icon-dianzan_kuai:before {
+  content: "\ec8c";
+}
+
+.icon-fenxiang1:before {
+  content: "\e604";
+}
+
+.icon-dianzan:before {
+  content: "\e603";
+}
+
+.icon-pinglun:before {
+  content: "\e615";
+}
+
+.icon-swticonyinle2:before {
+  content: "\e614";
+}
+
+.icon-jiantou8:before {
+  content: "\e60a";
+}
+
+.icon-aite:before {
+  content: "\e7ab";
+}
+
+.icon-jinghaojian:before {
+  content: "\e70e";
+}
+
+.icon-youjiantou:before {
+  content: "\e62a";
+}
+
+.icon-plus:before {
+  content: "\e644";
+}
+
+.icon-zuojiantou:before {
+  content: "\e601";
+}
+
+.icon-iconset0425:before {
+  content: "\e730";
+}
+
+.icon-sanjiaodown:before {
+  content: "\e6b5";
+}
+
+.icon-ziyuan:before {
+  content: "\e61e";
+}
+
+.icon-xiazai1:before {
+  content: "\e716";
+}
+
+.icon-fenxiang:before {
+  content: "\e626";
+}
+
+.icon-Play:before {
+  content: "\e629";
+}
+
+.icon-play:before {
+  content: "\e851";
+}
+
+.icon-aixin1:before {
+  content: "\e602";
+}
+
+.icon-danquxunhuan:before {
+  content: "\e66d";
+}
+
+.icon-hanhan-01-01:before {
+  content: "\e6b0";
+}
+
+.icon-liebiaoxunhuan:before {
+  content: "\e6a2";
+}
+
+.icon-suiji:before {
+  content: "\e88d";
+}
+
+.icon-shangjiantou_huaban:before {
+  content: "\e63d";
+}
+
+.icon-aixin:before {
+  content: "\e83f";
+}
+
+.icon-shangyishou:before {
+  content: "\e63c";
+}
+
+.icon-xiayishou:before {
+  content: "\e63e";
+}
+
+.icon-lajitong:before {
+  content: "\e633";
+}
+
+.icon-liebiao:before {
+  content: "\e81c";
+}
+
+.icon-pause:before {
+  content: "\e664";
+}
+
+.icon-yinliang:before {
+  content: "\e6af";
+}
+
+.icon-minus:before {
+  content: "\e632";
+}
+
+.icon-home:before {
+  content: "\e69b";
+}
+
+.icon-full-screen:before {
+  content: "\e600";
+}
+
+.icon-zuijinbofang:before {
+  content: "\e6d7";
+}
+
+.icon-B:before {
+  content: "\e70a";
+}
+
+.icon-xiazai:before {
+  content: "\e6d1";
+}
+
