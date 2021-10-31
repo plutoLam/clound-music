@@ -30,7 +30,7 @@ npm run build
 ### 部分截图![home](.\README_IMG\home.png)
 
 
-
+<img src="https://raw.githubusercontent.com/Lin-dev-source/clound-music/main/README_IMG/playlist.png" width="200" height="200" alt=""/><br/>
 See [Configuration Reference](https://cli.vuejs.org/config/).![playlist](https://raw.githubusercontent.com/Lin-dev-source/clound-music/main/README_IMG/playlist.png)
 # 
 
