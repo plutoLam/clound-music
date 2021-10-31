@@ -319,13 +319,12 @@ export default {
   }
   .wrap {
     width: 100%;
-    margin-top: $header-height;
+    margin-top: calc(#{$header-height} + 35px);
 
     .song {
       display: flex;
       width: 100%;
       height: 75vh;
-      // background-color: pink;
 
       .left {
         flex: 1;
