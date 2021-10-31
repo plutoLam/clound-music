@@ -31,12 +31,12 @@ npm run build
 
 
 
-See [Configuration Reference](https://cli.vuejs.org/config/).![playlist](README_IMG\playlist.png)
+See [Configuration Reference](https://cli.vuejs.org/config/).![playlist](https://github.com/Lin-dev-source/clound-music/blob/main/README_IMG\playlist.png)
 # 
 
-![player](README_IMG\player.png)
+![player](https://github.com/Lin-dev-source/clound-music/blob/main/README_IMG\player.png)
 
-![comment](README_IMG\comment.png)
+![comment](https://github.com/Lin-dev-source/clound-music/blob/main/README_IMG\comment.png)
 
-![user](README_IMG\user.png)
+![user](https://github.com/Lin-dev-source/clound-music/blob/main/README_IMG\user.png)
 
