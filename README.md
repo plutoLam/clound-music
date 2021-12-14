@@ -25,7 +25,8 @@ npm run build
 2. 网易云后端API https://binaryify.github.io/NeteaseCloudMusicApi
 3. 结合Mac端和Windows端，仿网易云音乐PC端
 （MV功能未完成）
-   
+
+预览地址：http://music.plutoup.top/  **（获取歌单详情和歌曲详情的接口已失效）**
 
 ### 部分截图
 
